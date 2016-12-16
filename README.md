@@ -63,3 +63,6 @@ Even with just a single value representing each word, enough information is reta
 What does this mean? No idea..! But, if we can semantically sort words, we can probably do the same for sentences. Would sorting sentences in a document make the flow of ideas more coherent? Maybe..?
 
 Follow me on [Twitter](https://twitter.com/Robosoup) for more updates like this.
+
+@robosoup
+www.robosoup.com
